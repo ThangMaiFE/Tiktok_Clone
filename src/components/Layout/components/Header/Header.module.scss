@@ -1,0 +1,15 @@
+.wrapper {
+  width: 100%;
+  height: var(--df-layout-height-header);
+  box-shadow: 0px 1px 1px rgb(0 0 0 /12%);
+  display: flex;
+  justify-content: center;
+}
+
+.inner {
+  height: 100%;
+  width: var(--df-layout-width);
+  background-color: #ccc;
+  text-align: center;
+  line-height: 60px;
+}
